@@ -1,4 +1,5 @@
 _repo: Inventors-Inventions_46472
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Fleming, T. M.
@@ -6,15 +7,15 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43809
 covers:
 - cover_type: archival
-  image_path: 46472/46472-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46472-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, Henry
     gutenberg_agent_id: '43808'
     url: http://www.gutenberg.org/2009/agents/43808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46472#Inventors-Inventions
 gutenberg_issued: '2014-08-01'
 gutenberg_type: Text
 identifiers:
